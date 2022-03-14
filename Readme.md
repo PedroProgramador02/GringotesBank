@@ -1,7 +1,7 @@
 ## **Banco Gringotes** 💰
 ![Gringotts Bank](https://user-images.githubusercontent.com/99230538/158230031-1324a6ec-0868-49cd-93a0-cf6ad08cd10c.gif)
 
-### MENU
+### *Menu*
 
 Este trabalho consiste na criação de um menu para um banco contendo:
 1° - Opção de cadastro de cliente
